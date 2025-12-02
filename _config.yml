@@ -1,11 +1,12 @@
 # Site settings
-title: Fachinformatiker für Anwendungsentwicklung
-email: Fionn.zak@zak-digital.de
-url: https://fionnzak.github.io
+title: "Fionn Zak – Fachinformatiker für Anwendungsentwicklung"
+email: "Fionn.zak@zak-digital.de"
+url: "https://fionnzak.github.io"
 description: "Portfolio von Fionn Zak – Softwareentwickler mit Fokus auf Java, Webentwicklung, Next.js, AI-Tools und kreativen Tech-Projekten."
 keywords: "Softwareentwickler, Fachinformatiker, Java, Webentwicklung, Next.js, AI Tools, Portfolio, Entwickler, Projekte"
-skills: ""Softwareentwickler – Java – Python – Web – AI Tools"
-meta_author: Zak Fionn
+skills: "Softwareentwickler – Java – Web – Next.js – AI Tools"
+meta_author: "Fionn Zak"
+
 
 # Google webmaster tools
 google_verify:
