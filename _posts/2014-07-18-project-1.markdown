@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-12-04
-img: cabin.png
+img: retrofolio.png
 alt: image-alt
 project-date: März 2025
 client: Persönliches Projekt
