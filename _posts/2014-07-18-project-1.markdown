@@ -1,11 +1,18 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2025-12-04
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: März 2025
+client: Persönliches Projekt
+category: Webentwicklung / Portfolio
+description: >
+  Retrofolio ist ein experimentelles Portfolio im nostalgischen Windows-7-Look.
+  Das Ziel des Projekts war es, eine interaktive Desktop-Oberfläche direkt im Browser umzusetzen – inklusive Fensterverwaltung, Drag-and-Drop und Startmenü-Elementen.
+  Die Benutzeroberfläche und das Fenstermanagement wurden bewusst ohne React- oder Framework-Logik gestaltet und bestehen überwiegend aus eigener HTML-, CSS- und JavaScript-Implementierung, während Next.js als Entwicklungsbasis dient.
+
+  Das Projekt entstand aus dem Wunsch heraus, eine kreative und spielerische Oberfläche zu entwickeln, die gleichzeitig als Portfolio funktioniert.
+  Dabei konnte ich mein Wissen in den Bereichen DOM-Manipulation, Event-Handling und UI-Interaktionen vertiefen.
+  Retrofolio ist ein persönliches Lern- und Showcase-Projekt, das technische Neugier mit einem besonderen visuellen Konzept verbindet.
 ---
