@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: storycalendar.png
+date: 2025-12-06
+img: storycalendar.jpg
 alt: image-alt
 project-date: Dezember 2024
 client: Persönliches Projekt
