@@ -2,12 +2,12 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: storycalendar.png
 alt: image-alt
 project-date: Dezember 2024
 client: Persönliches Projekt
 category: Webentwicklung
-description: Der Storycalendar ist eine kleine Webanwendung, die über 22 Tage hinweg täglich
+description: Der Storycalendar ist eine kleine Webanwendung, die über 21 Tage hinweg täglich
   neue MP3-Geschichten freischaltet. Die Idee entstand als persönliches Geschenk,
   bei dem Inhalte zeitbasiert verfügbar werden. Technisch basiert das Projekt auf
   einfacher JavaScript-Logik für Datumchecks sowie einer statischen Weboberfläche.
